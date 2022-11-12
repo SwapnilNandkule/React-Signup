@@ -1,0 +1,30 @@
+
+
+
+.page-title{
+  font-weight: 100;
+  font-size: 4em;
+  padding: 10px;
+  margin: 30px 30px 10px 80px;
+}
+
+.form-control{
+  height: 60px;
+  padding: 1.5rem 1.75rem;
+  background-color: black;
+  color: aliceblue;
+  border: none;
+  border-bottom: 1px solid whitesmoke;
+}
+
+.btn{
+  margin-top: 40px;
+}
+
+p{
+  color: red;
+}
+
+.ui{
+  color: rgb(72, 118, 3);
+}
